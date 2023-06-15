@@ -59,9 +59,6 @@
     /* creo el meu color */
 }
 
-.encap {
-    color: var(--miColor);
-}
 
 /* ESTILS ACTIVITAT FESTIVAL */
 .head,
@@ -92,11 +89,6 @@ a {
 
 img {
     width: 100px;
-}
-
-#Galeria {
-    display: grid;
-    grid-template-columns: auto auto auto;
 }
 
 .incluye {
